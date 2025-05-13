@@ -33,15 +33,7 @@ The dataset includes features like:
 - ECG results
 ...and more.
 
-## 📁 Folder Structure
-heart-disease-ml-predictor/
-│
-├── data/ # Dataset (CSV)
-├── notebooks/ # Jupyter Notebooks
-├── models/ # Trained Models
-├── src/ # Python Scripts
-├── results/ # Evaluation Metrics & Visualizations
-└── README.md # Project Documentation
+
 
 ## ⚙️ How to Run
 1. Clone the repo  
